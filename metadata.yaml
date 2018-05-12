@@ -1,0 +1,31 @@
+_repo: La-liturgio-de-l-foiro-Elementoj-por-ekzegezo-_23586
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Camacho, Jorge
+    aliases:
+    - Cordon, Jorge Camacho
+    - Cordón, Jorge Camacho
+    birthdate: 1966
+    gutenberg_agent_id: '25924'
+    url: http://www.gutenberg.org/2009/agents/25924
+    wikipedia: http://eo.wikipedia.org/wiki/Jorge_Camacho
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2007-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23586'
+language: eo
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Esperanto'
+- !lcsh 'Silfer, Giorgio, 1949-'
+- !lcc 'PM'
+title: La liturgio de l' foiro (Elementoj por ekzegezo)
+url: http://www.gutenberg.org/ebooks/23586
