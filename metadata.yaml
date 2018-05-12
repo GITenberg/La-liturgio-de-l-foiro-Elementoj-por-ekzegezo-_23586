@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25924
     wikipedia: http://eo.wikipedia.org/wiki/Jorge_Camacho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23586#La-liturgio-de-l-foiro-Elementoj-por-ekzegezo-
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2007-11-22'
 gutenberg_type: Text
